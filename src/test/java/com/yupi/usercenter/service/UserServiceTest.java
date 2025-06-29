@@ -12,7 +12,7 @@ import javax.annotation.Resource;
 /**
  * 用户服务测试
  *
- * @author <a href="https://github.com/liyupi">程序员鱼皮</a>
+ * @author Zachary
  * @from <a href="https://yupi.icu">编程导航知识星球</a>
  */
 @SpringBootTest
